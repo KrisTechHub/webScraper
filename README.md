@@ -1,4 +1,8 @@
+Instructions:
+Create a new node project and copy the code I provided.
+Install the dependences using npm.
 To run the code, just enter 'node app.js' in the terminal.
+I deleted all other files as i was not able to attach in gmail due to 'File types blocked in Gmail'.
 
 Story
 1. 1 week ago, I know nothing about using Angular, typescript, and webscraping as I was mainly focused on React for Jacascript.
